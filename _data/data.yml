@@ -51,10 +51,10 @@ experiences:
       time: 2019 - Present
       company: ServeSupply, Utrecht
       details: |
-        After a Masters course with the focus on beginning a pseudo-startup, the 3 of us decided to further develop
+        After a Masters course with the focus on beginning a pseudo-startup, together with my two fellow students, we decided to further develop
         the product and company into a full-fledged start-up. This included taking part in the 6 months Utrecht Inc. 
         Student Start-up Track where we were provided with masterclasses and one-on-one sessions to take our start-up
-        to greater heights. 
+        to the next level. 
           - Back-end development of scalable consumer web-based app in Django & Python
           - Responsible for deployment and server management
           - Application of Master & Bachelor learned knowledge on system architecture to entrepreneurship and innovation
@@ -76,9 +76,9 @@ experiences:
       time: 2014 - 2019
       company: C.S. Veritas, Utrecht
       details: |
-        I've been part and managing multiple projects within next to daily business like fixing (mostly) simple IT problems. 
+        I've been part of and managing multiple projects, next to daily business tasks like fixing (mostly) simple IT problems. 
         After a year of learning I focussed on the CRM part (Exact) and made sure this was running smoothly for the employees. 
-        As one of the longer sitting people in the committee I got to run my own group while focussing on continuity of the
+        As one of the more experienced people on the committee, I got to run my own group while focussing on continuity of the
         committee.
           - Co-writing technical and functional designs for outsourcing (India )back-end modules for new Drupal website 
           - Negotiating and writing technical and funcational designs for (Dutch) outsourcing modules on website (Drupal)
@@ -112,7 +112,7 @@ education:
 projects:
     title: Projects
     intro: >
-       Most of my project time goes to ServeSupply at the moment but looking into making Streamlit apps accompanied with blog
+       Most of my project time goes to ServeSupply at the moment. However, I am looking into making Streamlit apps accompanied with blog
        posts on these apps. 
        
     Latest project:
