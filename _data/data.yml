@@ -47,30 +47,6 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-education:
-    - degree: MSc in Business Informatics
-      university: Utrecht University
-      time: 2018-2020
-      details: |
-        Business Informatics with a specialization in Data Science. 
-        For my master thesis I've been part of a research group researching adolescents' interests. This project
-        generates a big dataset of free text fields filled with colloquial Dutch. My research focuses on how
-        NLP can help analyse this data with a final practical focus on a tool that the research group can use to 
-        analyse the data themselves. 
-          - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
-          - Focus on Data Science in theorethical (Big Data), practical (Data analytics & Visualization) & combination
-          (Data Science & Society, Business Intelligence)
-          - NLP in Natural Language Generation
-          - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
-    - degree: BSc in Information Science
-      university: Utrecht University 
-      time: 2007 - 2011
-      details: |
-        Information Science Bachelor with a minor in Entrepreneurship.
-          - Introduction to Data Science in Data Analytics and Knowledge Systems
-          - Entrepreneurial staples such as Financial Accounting, Venture Marketing and Strategic Management of Organisations and ICT
-          - Courses on CS basics such as Databases, Imperative Programming (C#) and Computer Architecture & Networks
-          - Information science courses; Information Systems, Organisations & ICT, Information Exchange
           
 experiences:
     - role: Co-founder
@@ -97,65 +73,64 @@ experiences:
           - Development of the User Interface and User Experience of mulitpackaging machines (EBpro)
           - Implemented a new CRM for the existing customer documents
           - continuous development of the website and automated newsletters for customers. 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          
+    - role: Member of IT committee at student association 
+      time: 2014 - 2019
+      company: C.S. Veritas, Utrecht
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I've been part and managing multiple projects within next to daily business like fixing (mostly) simple IT problems. 
+        After a year of learning I focussed on the CRM part (Exact) and made sure this was running smoothly for the employees. 
+        As one of the longer sitting people in the committee I got to run my own group while focussing on continuity of the
+        committee.
+          - Co-writing technical and functional designs for outsourcing (India )back-end modules for new Drupal website 
+          - Negotiating and writing technical and funcational designs for (Dutch) outsourcing modules on website (Drupal)
+          - Leading in writing (and executing) a Disaster Recovery Strategy
+         
+education:
+    - degree: MSc in Business Informatics
+      university: Utrecht University
+      time: 2018-2020
+      details: |
+        Business Informatics with a specialization in Data Science. 
+        For my master thesis I've been part of a research group researching adolescents' interests. This project
+        generates a big dataset of free text fields filled with colloquial Dutch. My research focuses on how
+        NLP can help analyse this data with a final practical focus on a tool that the research group can use to 
+        analyse the data themselves. 
+          - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
+          - Focus on Data Science in theorethical (Big Data), practical (Data analytics & Visualization) & combination
+          (Data Science & Society, Business Intelligence)
+          - NLP in Natural Language Generation
+          - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
+    - degree: BSc in Information Science
+      university: Utrecht University 
+      time: 2007 - 2011
+      details: |
+        Information Science Bachelor with a minor in Entrepreneurship.
+          - Introduction to Data Science in Data Analytics and Knowledge Systems
+          - Entrepreneurial staples such as Financial Accounting, Venture Marketing and Strategic Management of Organisations and ICT
+          - Courses on CS basics such as Databases, Imperative Programming (C#) and Computer Architecture & Networks
+          - Information science courses; Information Systems, Organisations & ICT, Information Exchange
+          
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+       I've been part and managing multiple project within
     assignments:
-      - title: Velocity
+      - title: New website with backend modules outsourced to India
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "co-writer on technical design and part of managing the ."
 
 #publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
 
 skills:
     title: Skills &amp; Proficiency
@@ -167,11 +142,14 @@ skills:
       - name: NLP packages (Transformers, Flair, Gensim, Pytorch, TF)
         level: 70%
       
-      - name: Amazon AWS & Microsoft Azure
-        level: 40%
+      - name: scikit-learn and visualizations
+        level: 65%
         
       - name: Amazon AWS & Microsoft Azure
         level: 40%
+        
+      - name: Docker, Jenkins (CI/CD) (working on it!)
+        level: 35%
         
         
 
