@@ -113,10 +113,11 @@ projects:
     title: Projects
     intro: >
        Most of my project time goes to ServeSupply at the moment but looking into making Streamlit apps accompanied with blog
-       Posts on these apps. 
-    assignments:
+       posts on these apps. 
+       
+    Latest project:
       - title: ServeSupply
-        link: "servesupply.nl"
+        link: "https://servesupply.nl"
         tagline: "our platform to automate supply orders for every restaurant"
 
 #publications:
