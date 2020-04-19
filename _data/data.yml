@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Thomas van der Meer
@@ -52,14 +52,16 @@ education:
       university: Utrecht University
       time: 2018-2020
       details: |
-        Business Informatics with a specialization in Data Science
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Business Informatics with a specialization in Data Science. 
+        For my master thesis I've been part of a research group researching adolescents' interests. This project
+        generates a big dataset of free text fields filled with colloquial Dutch. My research focuses on how
+        NLP can help analyse this data with a final practical focus on a tool that the research group can use to 
+        analyse the data themselves. 
+          - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
+          - Focus on Data Science in theorethical (Big Data), practical (Data analytics & Visualization) & combination
+          (Data Science & Society, Business Intelligence)
+          - NLP in Natural Language Generation
+          - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
     - degree: BSc in Information Science
       university: Utrecht University 
       time: 2007 - 2011
@@ -133,7 +135,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
+#publications:
     title: Publications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
@@ -160,22 +162,18 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: NLP packages (Transformers, Flair, Gensim, Pytorch, TF)
+        level: 70%
+      
+      - name: Amazon AWS & Microsoft Azure
+        level: 40%
+        
+      - name: Amazon AWS & Microsoft Azure
+        level: 40%
+        
+        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
