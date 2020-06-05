@@ -10,7 +10,6 @@ sidebar:
     name: Thomas van der Meer
     tagline: Machine Learning enthusiast
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    date of birth: 10-02-1996
 
     # Sidebar links
     email: tvdermeer@gmail.com
@@ -42,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hi, I am finishing up my Masters degree at the moment and looking for a job where I can hopefully show off 
+      Hi I am Thomas, 24 years old and I am finishing up my Masters degree at the moment. While studying, I am looking for a job where I can hopefully show off 
       my skills. I am result driven, project oriented and persisent, trying to get the full 100% out of the potential. 
       My best work comes together from a mix of business, IT and science and I'm not scared to make my hands dirty with
       coding and the technical side.
