@@ -10,6 +10,7 @@ sidebar:
     name: Thomas van der Meer
     tagline: Machine Learning enthusiast
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    date of birth: 10-02-1996
 
     # Sidebar links
     email: tvdermeer@gmail.com
@@ -101,7 +102,7 @@ education:
           - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
     - degree: BSc in Information Science
       university: Utrecht University 
-      time: 2007 - 2011
+      time: 2014 - 2017
       details: |
         Information Science Bachelor with a minor in Entrepreneurship.
           - Introduction to Data Science in Data Analytics and Knowledge Systems
