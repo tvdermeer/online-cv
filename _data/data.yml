@@ -44,23 +44,21 @@ career-profile:
       
       Hallo, ik ben Thomas, 24 jaar oud en heb mijn master Business Informatics aan de Universiteit Utrecht net afgerond. Nu ik klaar ben met studeren, ben ik op zoek naar
       naar een fulltime baan waar ik hopelijk mijn opgedane kennis in de praktijk kan brengen. Ik ben resultaatgedreven, werk graag projectmatig en altijd volhardend om
-      alles uit de kan te halen. Mijn beste werk komt voort uit een mix van business, IT en wetenschap. Ten slotte ben ik leergierig en probeer ik zo goed mogelijk bij te 
-      blijven met laatste ontwikkelingen. 
+      alles uit de kan te halen. Ik ben op zoek naar een plek waar hard gewerkt wordt maar een informele, collegiale sfeer hangt. Mijn beste werk komt voort uit 
+      een mix van business, IT en wetenschap. Ten slotte ben ik leergierig en probeer ik zo goed mogelijk bij te blijven met laatste ontwikkelingen. 
           
 experiences:
     - role: Co-founder
       time: 2019 - nu
       company: ServeSupply, Utrecht
       details: |
-        After a Masters course with the focus on beginning a pseudo-startup, together with my two fellow students, we decided to further develop
-        the product and company into a full-fledged start-up. This included taking part in the 6 months Utrecht Inc. 
-        Student Start-up Track where we were provided with masterclasses and one-on-one sessions to take our start-up
-        to the next level. 
-          - Back-end development of scalable consumer web-based app in Django & Python
-          - Responsible for deployment and server management
-          - Application of Master & Bachelor learned knowledge on system architecture to entrepreneurship and innovation
-            to data science.
-            
+        Na het volgen van een Mastervak waar wordt gefocust op het beginnen van een pseudo-startup, hebben we met z'n drieën belsoten om het idee dat 
+        in het vak is ontstaan verder te ontwikkelen. Dit had als gevolg een parttime start-up waarin we met z'n drieën werkten aan een minimum viable product, 
+        validatie van het idee en deelname aan een begeleidingsprogramma. Het Utrecht Inc. start-up track is een programma waarin we werden begeleid door 
+        serie-entrepreneurs en kregen we masterclasses, een-op-een sessies en verschillende talks van succesvolle ondernemers en start-ups. 
+          - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python
+          - Verantwoordelijk voor de implementatie en het server mangement van de applicatie.
+          - Een 'real life' toepassing van Master- en Bachelorkennis over systeemarchitectuur, ontwikkeling van software, data science, ondernemerschap en innovatie.
          
             
     - role: IT/IS development and maintenance 
@@ -90,26 +88,22 @@ education:
       university: Universiteit Utrecht 
       time: 2018-2020
       details: |
+        Business Informatics met een specialisatie in Data science (cijfergemiddelde van 7.63). Voor mijn scriptie heb ik onderdeel uitgemaakt van een 
+        onderzoeksgroep gericht op het onderzoeken van interesses van jongvolwassenen. Dit project heeft een grote dataset gegenereerd waarin deelnemers 
+        hun interesses hebben gedeeld. Deze dataset bestaat uit interesses in het Nederlands. Mijn onderzoek had als doel om deze grote set (140.000) interesses 
+        te analyseren en inzicht te geven in verscheidenheid van en verandering van interesses over tijd. Als praktisch gedeelte een tool die met behulp van 
+        een zelf-getraind neuraal netwerk analyses kon uitvoeren op door gebruikers ingegeven dataset. 
         Business Informatics with a specialization in Data Science. 
-        For my master thesis I've been part of a research group researching adolescents' interests. This project
-        generates a big dataset of free text fields filled with colloquial Dutch. My research focuses on how
-        NLP can help analyse this data with a final practical focus on a tool that the research group can use to 
-        analyse the data themselves. 
-          - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
-          - Focus on Data Science in theorethical (Big Data), practical (Data analytics & Visualization) & combination
-          (Data Science & Society, Business Intelligence)
-          - NLP in Natural Language Generation
-          - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
           
     - degree: BSc in Information Science
-      university: Utrecht University 
+      university: Universiteit Utrecht 
       time: 2014 - 2017
       details: |
-        Information Science Bachelor with a minor in Entrepreneurship.
-          - Introduction to Data Science in Data Analytics and Knowledge Systems
-          - Entrepreneurial staples such as Financial Accounting, Venture Marketing and Strategic Management of Organisations and ICT
-          - Courses on CS basics such as Databases, Imperative Programming (C#) and Computer Architecture & Networks
-          - Information science courses; Information Systems, Organisations & ICT, Information Exchange
+        Informatikunde Bachelor met een minor in Entrepreneurship. 
+          - Introductie van Data Science in de vakken Data Analytics en Knowledge Systems.
+          - Ondernemerschapsvakken zoals Financial Accounting, Venture Marketing en Strategic Management of Oganisations and ICT.
+          - Informaticavakken zoals Databases, Imperative Programming (C#) en Computer Architecture & Networks.
+          - Infomratiekundevakken zoals Informations Systems, Organisations & ICT, Information Excange.
           
 projects:
     title: Projecten
