@@ -61,35 +61,29 @@ experiences:
           - Application of Master & Bachelor learned knowledge on system architecture to entrepreneurship and innovation
             to data science.
             
+         
+            
     - role: IT/IS development and maintenance 
       time: 2014 - nu
       company: Jongerius Hanco, Amersfoort
-      details: |
-        All-round management and maintenance of IT/IS systems at Jongerius Hanco. On quiet days helping the sales and
-        administrative accounts.  
-          - Designed and created knowledge infrastructure system for capturing, managing and reusing knowledge by 
-            assembly employees in production environment
-          - Development of the User Interface and User Experience of mulitpackaging machines (EBpro)
-          - Implemented a new CRM for the existing customer documents
-          - continuous development of the website and automated newsletters for customers. 
+      details: | 
+       All-round management en onderhoud van de IT/IS systemen voor Jongerius Hanco. Op de stille dagen help ik mee op de sales en administratieve afdeling.
+          - Het ontwerpen en bouwen van een kennisinfrastructuur voor het vangen, managen en hergebruiken van kennis van assemblagemedewerkers.
+          - Ontwikkeling van een User Interface en User Experience van multipackaging machines (EBpro).
+          - Implementatie en migratie naar een nieuw CRM systeem (ACT pro).
+          - Doorontwikkeling en onderhoud van website, nieuwsbrieven en andere digitale communicatie naar (potentiële) klanten.
           
     - role: Lid van de IT-commissie van studentenvereniging 
       time: 2014 - 2019
       company: C.S. Veritas, Utrecht
       details: |
-        I've been part of and managing multiple projects, next to daily business tasks like fixing (mostly) simple IT problems. 
-        After a year of learning I focussed on the CRM part (Exact) and made sure this was running smoothly for the employees. 
-        As one of the more experienced people on the committee, I got to run my own group while focussing on continuity of the
-        committee.
-          - Co-writing technical and functional designs for outsourcing (India )back-end modules for new Drupal website 
-          - Negotiating and writing technical and funcational designs for (Dutch) outsourcing modules on website (Drupal)
-          - Leading in writing (and executing) a Disaster Recovery Strategy
-          
        Voor een studentenverenging van ruim 1700 leden is deze commissie verantwoordelijk voor het onderhouden en vernieuwen van IT-systemen.
        Dit komt neer op dagelijkse taken van het oplossen van (meestal) simpele IT problemen en langere projecten voor vernieuwingen in bijvoorbeeld
        website, reserveringssystemen en op maat gemaakte software. Na een jaar van meekijken en meehelpen kreeg ik de mogelijkheid om een eigen groep
        aan te sturen voor grotere projecten met oog op continuiteit van de commissie. 
-        - (mee)-schrijven van technische en functionele designs for outsourcing van development 
+        - Meeschrijven aan technische en functionele designs voor outsourcing van back-end modules voor een nieuwe Drupal website.
+        - Leiding in onderhandelen en schrijven van technische en functionele designs van modules op Drupal website.
+        - Leiding in het schrijven en uitvoeren van een noodherstelplan.
          
 education:
     - degree: MSc in Business Informatics
@@ -106,6 +100,7 @@ education:
           (Data Science & Society, Business Intelligence)
           - NLP in Natural Language Generation
           - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
+          
     - degree: BSc in Information Science
       university: Utrecht University 
       time: 2014 - 2017
