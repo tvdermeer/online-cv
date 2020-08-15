@@ -88,18 +88,18 @@ education:
       university: Universiteit Utrecht 
       time: 2018-2020
       details: |
-        Business Informatics met een specialisatie in Data science (cijfergemiddelde van 7.63). Voor mijn scriptie heb ik onderdeel uitgemaakt van een 
+        Business Informatics met een specialisatie in Data Science (cijfergemiddelde van 7.63). Voor mijn scriptie heb ik onderdeel uitgemaakt van een 
         onderzoeksgroep gericht op het onderzoeken van interesses van jongvolwassenen. Dit project heeft een grote dataset gegenereerd waarin deelnemers 
         hun interesses hebben gedeeld. Deze dataset bestaat uit interesses in het Nederlands. Mijn onderzoek had als doel om deze grote set (140.000) interesses 
         te analyseren en inzicht te geven in verscheidenheid van en verandering van interesses over tijd. Als praktisch gedeelte een tool die met behulp van 
         een zelf-getraind neuraal netwerk analyses kon uitvoeren op door gebruikers ingegeven dataset. 
-        Business Informatics with a specialization in Data Science. 
+        
           
     - degree: BSc in Information Science
       university: Universiteit Utrecht 
       time: 2014 - 2017
       details: |
-        Informatikunde Bachelor met een minor in Entrepreneurship. 
+        Informatiekunde Bachelor met een minor in Entrepreneurship. 
           - Introductie van Data Science in de vakken Data Analytics en Knowledge Systems.
           - Ondernemerschapsvakken zoals Financial Accounting, Venture Marketing en Strategic Management of Oganisations and ICT.
           - Informaticavakken zoals Databases, Imperative Programming (C#) en Computer Architecture & Networks.
