@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Thomas van der Meer
-    tagline: Machine Learning enthusiast
+    tagline: Machine Learning liefhebber
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,26 +25,31 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Dutch
-        level: Native
+      - idiom: Nederlands
+        level: Moedertaal
 
-      - idiom: English
-        level: Professional
+      - idiom: Engels
+        level: Professioneel
 
     interests:
       - item: Golf
         link:
 
-      - item: Cooking
+      - item: Koken
         link:
 
 career-profile:
-    title: Career Profile
+    title: Carriereprofiel
     summary: |
       Hi I am Thomas, 24 years old and I am finishing up my Masters degree at the moment. While studying, I am looking for a job where I can hopefully show off 
       my skills. I am result driven, project oriented and persisent, trying to get the full 100% out of the potential. 
       My best work comes together from a mix of business, IT and science and I'm not scared to make my hands dirty with
       coding and the technical side.
+      
+      Hallo, ik ben Thomas, 24 jaar oud en heb mijn master Business Informatics aan de Universiteit Utrecht net afgerond. Nu ik klaar ben met studeren, ben ik op zoek naar
+      naar een fulltime baan waar ik hopelijk mijn opgedane kennis in de praktijk kan brengen. Ik ben resultaatgedreven, werk graag projectmatig en altijd volhardend om
+      alles uit de kan te halen. Mijn beste werk komt voort uit een mix van business, IT en wetenschap. Ten slotte ben ik leergierig en probeer ik zo goed mogelijk bij te 
+      blijven met laatste ontwikkelingen. 
           
 experiences:
     - role: Co-founder
