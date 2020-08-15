@@ -24,14 +24,14 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
-    Languages:
+    languages:
       - idiom: Nederlands
         level: Moedertaal
 
       - idiom: Engels
         level: Professioneel
 
-    Interests:
+    interests:
       - item: Golf
         link:
 
