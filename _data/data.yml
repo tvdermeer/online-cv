@@ -49,7 +49,7 @@ career-profile:
           
 experiences:
     - role: Co-founder
-      time: 2019 - Present
+      time: 2019 - nu
       company: ServeSupply, Utrecht
       details: |
         After a Masters course with the focus on beginning a pseudo-startup, together with my two fellow students, we decided to further develop
@@ -62,7 +62,7 @@ experiences:
             to data science.
             
     - role: IT/IS development and maintenance 
-      time: 2014 - present
+      time: 2014 - nu
       company: Jongerius Hanco, Amersfoort
       details: |
         All-round management and maintenance of IT/IS systems at Jongerius Hanco. On quiet days helping the sales and
@@ -73,7 +73,7 @@ experiences:
           - Implemented a new CRM for the existing customer documents
           - continuous development of the website and automated newsletters for customers. 
           
-    - role: Member of IT committee at student association 
+    - role: Lid van de IT-commissie van studentenvereniging 
       time: 2014 - 2019
       company: C.S. Veritas, Utrecht
       details: |
@@ -84,10 +84,16 @@ experiences:
           - Co-writing technical and functional designs for outsourcing (India )back-end modules for new Drupal website 
           - Negotiating and writing technical and funcational designs for (Dutch) outsourcing modules on website (Drupal)
           - Leading in writing (and executing) a Disaster Recovery Strategy
+          
+       Voor een studentenverenging van ruim 1700 leden is deze commissie verantwoordelijk voor het onderhouden en vernieuwen van IT-systemen.
+       Dit komt neer op dagelijkse taken van het oplossen van (meestal) simpele IT problemen en langere projecten voor vernieuwingen in bijvoorbeeld
+       website, reserveringssystemen en op maat gemaakte software. Na een jaar van meekijken en meehelpen kreeg ik de mogelijkheid om een eigen groep
+       aan te sturen voor grotere projecten met oog op continuiteit van de commissie. 
+        - (mee)-schrijven van technische en functionele designs for outsourcing van development 
          
 education:
     - degree: MSc in Business Informatics
-      university: Utrecht University
+      university: Universiteit Utrecht 
       time: 2018-2020
       details: |
         Business Informatics with a specialization in Data Science. 
@@ -111,15 +117,15 @@ education:
           - Information science courses; Information Systems, Organisations & ICT, Information Exchange
           
 projects:
-    title: Projects
+    title: Projecten
     intro: >
-       Most of my project time goes to ServeSupply at the moment. However, I am looking into making Streamlit apps accompanied with blog
-       posts on these apps. 
+      Bijna alle projecttijd gaat op dit moment naar ServeSupply. Wanneer er meer tijd over is, wil ik deze tijd gebruiken om Streamlit apps te maken in combinatie met 
+      een blog. 
        
     Latest project:
       - title: ServeSupply
         link: "https://servesupply.nl"
-        tagline: "our platform to automate supply orders for every restaurant"
+        tagline: "het platform dat automatisch inkoopbestellingen en voorraadbeheer regelt voor de horeca"
 
 #publications:
 #    title: Publications
@@ -134,23 +140,23 @@ projects:
 #        conference: Addison-Wesley, 1968
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Vaardigheden
 
     toolset:
       - name: Python & Django
-        level: 80%
+        level: 90%
 
-      - name: NLP packages (Transformers, Flair, Gensim, Pytorch, TF)
-        level: 70%
+      - name: Natural Language Processing (nlp) packages (Transformers, Flair, Gensim, Pytorch, TF)
+        level: 80%
       
-      - name: scikit-learn and visualizations
-        level: 65%
+      - name: Machine learning libraries zoals sci-kit learn en visualisaties
+        level: 75%
         
       - name: Amazon AWS & Microsoft Azure
-        level: 40%
+        level: 60%
         
-      - name: Docker, Jenkins (CI/CD) (working on it!)
-        level: 35%
+      - name: Docker, Jenkins (CI/CD) (mee aan de slag!)
+        level: 45%
         
         
 
