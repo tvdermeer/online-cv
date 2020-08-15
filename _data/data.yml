@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Thomas van der Meer
-    tagline: Machine Learning liefhebber
+    tagline: Machine Learning enthusiast
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,17 +25,17 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Nederlands
-        level: Moedertaal
+      - idiom: Dutch
+        level: Native
 
-      - idiom: Engels
-        level: Proffesioneel
+      - idiom: English
+        level: Professional
 
     interests:
       - item: Golf
         link:
 
-      - item: Koken
+      - item: Cooking
         link:
 
 career-profile:
