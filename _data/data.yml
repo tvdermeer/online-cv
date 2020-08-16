@@ -53,9 +53,8 @@ experiences:
       company: ServeSupply, Utrecht
       details: |
         Na het volgen van een Mastervak waar wordt gefocust op het beginnen van een pseudo-startup, hebben we met z'n drieën belsoten om het idee dat 
-        in het vak is ontstaan verder te ontwikkelen. Hier een parttime start-up tot stand waarin we met z'n drieën werkten aan een prototype, 
-        validatie van het idee en deelname aan een begeleidingsprogramma (Utrecht Inc.). De Utrecht Inc. start-up track is een programma waarin we werden begeleid door 
-        serie-entrepreneurs en kregen we masterclasses, een-op-een sessies en verschillende talks van succesvolle ondernemers en start-ups. 
+        in het vak is ontstaan verder te ontwikkelen.
+          - Onderdeel uitgemaakt van de Utrecht Inc. Student Start-up track, bestaande uit masterclasses, 1-op-1 sessies en talks van succesvolle ondernemers en start-ups. 
           - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python
           - Verantwoordelijk voor de implementatie en het server mangement van de applicatie.
           - Een 'real life' toepassing van Master- en Bachelorkennis over systeemarchitectuur, ontwikkeling van software, data science, ondernemerschap en innovatie.
@@ -89,10 +88,9 @@ education:
       time: 2018-2020
       details: |
         Business Informatics met een specialisatie in Data Science (cijfergemiddelde van 7.63). Voor mijn scriptie heb ik onderdeel uitgemaakt van een 
-        onderzoeksgroep gericht op het onderzoeken van interesses van jongvolwassenen. Dit project heeft een grote dataset gegenereerd waarin deelnemers 
-        hun interesses hebben gedeeld. Deze dataset bestaat uit interesses in het Nederlands. Mijn onderzoek had als doel om deze grote set (140.000) interesses 
-        te analyseren en inzicht te geven in verscheidenheid van en verandering van interesses over tijd. Als praktisch gedeelte heb ik gewerkt aan het ontwikkelen
-        van een tool die met behulp van een zelf-getraind neuraal netwerk analyses kan uitvoeren op de door gebruikers ingegeven dataset. 
+        onderzoeksgroep gericht op het onderzoeken van interesses van jongvolwassenen. 
+         - Scriptie afgerond met een 8, onderzoek naar het gebruik van Nederlandse NLP om interesses van jongeren dataset te analyseren.
+         - Gewerkt aan het ontwikkelen van een tool die met behulp van een zelf-getraind neuraal netwerk analyses kan uitvoeren op de door gebruikers ingegeven dataset.
          - Onderzoeksmastervakken zoals Advanced Research Methods en academisch schrijven (Software Production, Method Engineering).
          - Focus op Data Science in theorie (Big Data), praktijk (Data Analystics and Visualization) en een combinatie daarvan (Data Science & Society, Business Intelligence)
          - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
