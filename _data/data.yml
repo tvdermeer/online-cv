@@ -44,8 +44,8 @@ career-profile:
       
       Ik ben Thomas, 24 jaar oud en heb mijn master Business Informatics aan de Universiteit Utrecht net afgerond. Nu ik klaar ben met studeren, ben ik op zoek naar
       naar een fulltime baan waar ik hopelijk mijn opgedane kennis in de praktijk kan brengen. Ik ben resultaatgedreven, werk graag projectmatig en altijd volhardend om
-      alles uit de kan te halen. Ik ben op zoek naar een plek waar hard gewerkt wordt maar een informele, collegiale sfeer hangt. Mijn beste werk komt voort uit 
-      een mix van business, IT en wetenschap. Ten slotte ben ik leergierig en probeer ik zo goed mogelijk bij te blijven met laatste ontwikkelingen. 
+      het onderste uit de kan te halen. Ik ben op zoek naar een plek waar hard gewerkt wordt maar een informele, collegiale sfeer hangt. Mijn beste werk komt voort uit 
+      een mix van business, IT en wetenschap. Ten slotte ben ik leergierig en probeer ik zo goed mogelijk bij te blijven met de laatste ontwikkelingen. 
           
 experiences:
     - role: Co-founder
@@ -53,8 +53,8 @@ experiences:
       company: ServeSupply, Utrecht
       details: |
         Na het volgen van een Mastervak waar wordt gefocust op het beginnen van een pseudo-startup, hebben we met z'n drieën belsoten om het idee dat 
-        in het vak is ontstaan verder te ontwikkelen. Dit had als gevolg een parttime start-up waarin we met z'n drieën werkten aan een minimum viable product, 
-        validatie van het idee en deelname aan een begeleidingsprogramma. Het Utrecht Inc. start-up track is een programma waarin we werden begeleid door 
+        in het vak is ontstaan verder te ontwikkelen. Hier een parttime start-up tot stand waarin we met z'n drieën werkten aan een prototype, 
+        validatie van het idee en deelname aan een begeleidingsprogramma (Utrecht Inc.). De Utrecht Inc. start-up track is een programma waarin we werden begeleid door 
         serie-entrepreneurs en kregen we masterclasses, een-op-een sessies en verschillende talks van succesvolle ondernemers en start-ups. 
           - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python
           - Verantwoordelijk voor de implementatie en het server mangement van de applicatie.
@@ -91,8 +91,8 @@ education:
         Business Informatics met een specialisatie in Data Science (cijfergemiddelde van 7.63). Voor mijn scriptie heb ik onderdeel uitgemaakt van een 
         onderzoeksgroep gericht op het onderzoeken van interesses van jongvolwassenen. Dit project heeft een grote dataset gegenereerd waarin deelnemers 
         hun interesses hebben gedeeld. Deze dataset bestaat uit interesses in het Nederlands. Mijn onderzoek had als doel om deze grote set (140.000) interesses 
-        te analyseren en inzicht te geven in verscheidenheid van en verandering van interesses over tijd. Als praktisch gedeelte een tool die met behulp van 
-        een zelf-getraind neuraal netwerk analyses kon uitvoeren op door gebruikers ingegeven dataset. 
+        te analyseren en inzicht te geven in verscheidenheid van en verandering van interesses over tijd. Als praktisch gedeelte heb ik gewerkt aan het ontwikkelen
+        van een tool die met behulp van een zelf-getraind neuraal netwerk analyses kan uitvoeren op de door gebruikers ingegeven dataset. 
          - Onderzoeksmastervakken zoals Advanced Research Methods en academisch schrijven (Software Production, Method Engineering).
          - Focus op Data Science in theorie (Big Data), praktijk (Data Analystics and Visualization) en een combinatie daarvan (Data Science & Society, Business Intelligence)
          - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
