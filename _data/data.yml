@@ -37,12 +37,21 @@ sidebar:
 
       - item: Koken
         link:
-
+        
+      - item:
+        link:
+      
+      - item:
+        link:
+        
+      - item: Rijbewijs B
+        link: 
+      
 career-profile:
     title: Carriereprofiel
     summary: |
       
-      Hallo, ik ben Thomas, 24 jaar oud en heb mijn master Business Informatics aan de Universiteit Utrecht net afgerond. Nu ik klaar ben met studeren, ben ik op zoek naar
+      Ik ben Thomas, 24 jaar oud en heb mijn master Business Informatics aan de Universiteit Utrecht net afgerond. Nu ik klaar ben met studeren, ben ik op zoek naar
       naar een fulltime baan waar ik hopelijk mijn opgedane kennis in de praktijk kan brengen. Ik ben resultaatgedreven, werk graag projectmatig en altijd volhardend om
       alles uit de kan te halen. Ik ben op zoek naar een plek waar hard gewerkt wordt maar een informele, collegiale sfeer hangt. Mijn beste werk komt voort uit 
       een mix van business, IT en wetenschap. Ten slotte ben ik leergierig en probeer ik zo goed mogelijk bij te blijven met laatste ontwikkelingen. 
@@ -107,18 +116,18 @@ education:
           - Introductie van Data Science in de vakken Data Analytics en Knowledge Systems.
           - Ondernemerschapsvakken zoals Financial Accounting, Venture Marketing en Strategic Management of Oganisations and ICT.
           - Informaticavakken zoals Databases, Imperative Programming (C#) en Computer Architecture & Networks.
-          - Infomratiekundevakken zoals Informations Systems, Organisations & ICT, Information Excange.
+          - Infomratiekundevakken zoals Informations Systems, Organisations & ICT, Information Exchange.
           
-projects:
-    title: Projecten
-    intro: >
-      Bijna alle projecttijd gaat op dit moment naar ServeSupply. Wanneer er meer tijd over is, wil ik deze tijd gebruiken om Streamlit apps te maken in combinatie met 
-      een blog. 
+#projects:
+#    title: Projecten
+#    intro: >
+#      Bijna alle projecttijd gaat op dit moment naar ServeSupply. Wanneer er meer tijd over is, wil ik deze tijd gebruiken om Streamlit apps te maken in combinatie met 
+#      een blog. 
        
-    Latest project:
-      - title: ServeSupply
-        link: "https://servesupply.nl"
-        tagline: "het platform dat automatisch inkoopbestellingen en voorraadbeheer regelt voor de horeca"
+#    Latest project:
+#      - title: ServeSupply
+3        link: "https://servesupply.nl"
+#        tagline: "het platform dat automatisch inkoopbestellingen en voorraadbeheer regelt voor de horeca"
 
 #publications:
 #    title: Publications
