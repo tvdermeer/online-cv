@@ -58,6 +58,7 @@ experiences:
           - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python
           - Verantwoordelijk voor de implementatie en het server mangement van de applicatie.
           - Een 'real life' toepassing van Master- en Bachelorkennis over systeemarchitectuur, ontwikkeling van software, data science, ondernemerschap en innovatie.
+          - Een prototype waarin eindgebruikers inzicht krijgen in hun inkoop en verkoopcijfers plus voorspellingen voor hun volgende inkoopmomenten.
          
             
     - role: IT/IS development and maintenance 
@@ -65,7 +66,7 @@ experiences:
       company: Jongerius Hanco, Amersfoort
       details: | 
        All-round management en onderhoud van de IT/IS systemen voor Jongerius Hanco. Op de stille dagen help ik mee op de sales en administratieve afdeling.
-          - Het ontwerpen en bouwen van een kennisinfrastructuur voor het vangen, managen en hergebruiken van kennis van assemblagemedewerkers.
+          - Het ontwerpen en bouwen (LAMP) van een kennisinfrastructuur voor het vangen, managen en hergebruiken van kennis van assemblagemedewerkers.
           - Ontwikkeling van een User Interface en User Experience van multipackaging machines (EBpro).
           - Implementatie en migratie naar een nieuw CRM systeem (ACT pro).
           - Doorontwikkeling en onderhoud van website, nieuwsbrieven en andere digitale communicatie naar (potentiële) klanten.
@@ -92,8 +93,9 @@ education:
          - Scriptie afgerond met een 8, onderzoek naar het gebruik van Nederlandse NLP om interesses van jongeren dataset te analyseren.
          - Gewerkt aan het ontwikkelen van een tool die met behulp van een zelf-getraind neuraal netwerk analyses kan uitvoeren op de door gebruikers ingegeven dataset.
          - Onderzoeksmastervakken zoals Advanced Research Methods en academisch schrijven (Software Production, Method Engineering).
+         - Laden en gebruiken van Big data (Spark) in een cloud-omgeving (Azure). 
+         - Maken van een Business Intelligence dashboard (R) inclusief het bouwen van een ETL proces en een datawarehouse
          - Focus op Data Science in theorie (Big Data), praktijk (Data Analystics and Visualization) en een combinatie daarvan (Data Science & Society, Business Intelligence)
-         - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
          - NLP (Natural Language Generation)
          - Enterpreneurial vak (ICT entrepreneurship). Dit was ook het begin voor de start-up ServeSupply.
           
@@ -143,13 +145,16 @@ skills:
       - name: Machine learning libraries zoals sci-kit learn en visualisaties
         level: 75%
         
+      - name: SQL (MySQL, PostgreSQL & SparQL)
+        level: 65%
+        
       - name: Amazon AWS & Microsoft Azure
         level: 60%
         
       - name: Docker, Jenkins (CI/CD) (mee aan de slag!)
         level: 45%
         
-        
+      
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
