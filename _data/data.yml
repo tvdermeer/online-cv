@@ -55,7 +55,7 @@ experiences:
         Na het volgen van een Mastervak waar wordt gefocust op het beginnen van een pseudo-startup, hebben we met z'n drieën belsoten om het idee dat 
         in het vak is ontstaan verder te ontwikkelen.
           - Onderdeel uitgemaakt van de Utrecht Inc. Student Start-up track, bestaande uit masterclasses, 1-op-1 sessies en talks van succesvolle ondernemers en start-ups. 
-          - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python
+          - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python.
           - Verantwoordelijk voor de implementatie en het server mangement van de applicatie.
           - Een 'real life' toepassing van Master- en Bachelorkennis over systeemarchitectuur, ontwikkeling van software, data science, ondernemerschap en innovatie.
           - Een prototype waarin eindgebruikers inzicht krijgen in hun inkoop en verkoopcijfers plus voorspellingen voor hun volgende inkoopmomenten.
@@ -94,9 +94,9 @@ education:
          - Gewerkt aan het ontwikkelen van een tool die met behulp van een zelf-getraind neuraal netwerk analyses kan uitvoeren op de door gebruikers ingegeven dataset.
          - Onderzoeksmastervakken zoals Advanced Research Methods en academisch schrijven (Software Production, Method Engineering).
          - Laden en gebruiken van Big data (Spark) in een cloud-omgeving (Azure). 
-         - Maken van een Business Intelligence dashboard (R) inclusief het bouwen van een ETL proces en een datawarehouse
-         - Focus op Data Science in theorie (Big Data), praktijk (Data Analystics and Visualization) en een combinatie daarvan (Data Science & Society, Business Intelligence)
-         - NLP (Natural Language Generation)
+         - Maken van een Business Intelligence dashboard (R) inclusief het bouwen van een ETL proces en een datawarehouse.
+         - Focus op Data Science in theorie (Big Data), praktijk (Data Analystics and Visualization) en een combinatie daarvan (Data Science & Society, Business Intelligence).
+         - NLP (Natural Language Generation).
          - Enterpreneurial vak (ICT entrepreneurship). Dit was ook het begin voor de start-up ServeSupply.
           
     - degree: BSc in Information Science
