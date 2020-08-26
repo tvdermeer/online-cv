@@ -56,7 +56,7 @@ experiences:
         in het vak is ontstaan verder te ontwikkelen.
           - Onderdeel uitgemaakt van de Utrecht Inc. Student Start-up track, bestaande uit masterclasses, 1-op-1 sessies en talks van succesvolle ondernemers en start-ups. 
           - Full stack development van een schaalbare consumenten applicatie (web-based) in Django & Python.
-          - Ontwerp en implementatie van een ETL proces voor het ontrekken van data uit kassasystemen en inladen in de ServeSupply Database.
+          - Ontwerp en implementatie van een ETL proces voor het ontrekken van data uit kassasystemen en inladen in het ServeSupply Datawarehouse.
             Querying voor dataverzameling in de app met behulp van SQL. 
           - Verantwoordelijk voor de implementatie en het server mangement van de applicatie.
           - Een 'real life' toepassing van Master- en Bachelorkennis over systeemarchitectuur, ontwikkeling van software, data science, ondernemerschap en innovatie.
