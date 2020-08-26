@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Thomas van der Meer
-    tagline: Machine Learning enthusiast
+    # tagline: Machine Learning enthusiast
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -55,8 +55,9 @@ experiences:
         the product and company into a full-fledged start-up. This included taking part in the 6 months Utrecht Inc. 
         Student Start-up Track where we were provided with masterclasses and one-on-one sessions to take our start-up
         to the next level. 
-          - Back-end development of scalable consumer web-based app in Django & Python
-          - Responsible for deployment and server management
+          - Back-end development of scalable consumer web-based app in Django/PostgreSQL.
+          - Responsible for deployment and server management.
+          - Prototyping of a web-based app where the hospitality business gets insight in their sales and purchasing performances.
           - Application of Master & Bachelor learned knowledge on system architecture to entrepreneurship and innovation
             to data science.
             
@@ -66,10 +67,10 @@ experiences:
       details: |
         All-round management and maintenance of IT/IS systems at Jongerius Hanco. On quiet days helping the sales and
         administrative accounts.  
-          - Designed and created knowledge infrastructure system for capturing, managing and reusing knowledge by 
-            assembly employees in production environment
-          - Development of the User Interface and User Experience of mulitpackaging machines (EBpro)
-          - Implemented a new CRM for the existing customer documents
+          - Designed and created knowledge infrastructure system for capturing, managing and reusing knowledge stored in a database by 
+            assembly employees in production environment. 
+          - Development of the User Interface and User Experience of multipackaging machines (EBpro).
+          - Implemented a new CRM for the existing customer documents.
           - continuous development of the website and automated newsletters for customers. 
           
     - role: Member of IT committee at student association 
@@ -96,9 +97,11 @@ education:
         analyse the data themselves. 
           - research master staples such as Advanced Research Methods and academic writing (Software Production, Method Engineering)
           - Focus on Data Science in theorethical (Big Data), practical (Data analytics & Visualization) & combination
-          (Data Science & Society, Business Intelligence)
-          - NLP in Natural Language Generation
-          - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply
+          (Data Science & Society and Business Intelligence).
+          - NLP in Natural Language Generation.
+          - Working with big data (Spark) in the cloud (Azure).
+          - Dashboarding and visualization in R, preceded by an ETL process and creating a datawarehouse. 
+          - Entrepreneurial course in ICT entrepreneurship which was the start of ServeSupply.
     - degree: BSc in Information Science
       university: Utrecht University 
       time: 2014 - 2017
@@ -140,18 +143,21 @@ skills:
         level: 80%
 
       - name: NLP packages (Transformers, Flair, Gensim, Pytorch, TF)
-        level: 70%
+        level: 75%
       
       - name: scikit-learn and visualizations
+        level: 70%
+        
+        - name: SQL (MySQL, PostgreSQL & SparQL)
         level: 65%
         
       - name: Amazon AWS & Microsoft Azure
-        level: 40%
+        level: 50%
         
       - name: Docker, Jenkins (CI/CD) (working on it!)
         level: 35%
         
         
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
